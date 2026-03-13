@@ -1,1 +1,1 @@
-document.getElementById("h1").textContent = "hi!"
+document.querySelector("h1").textContent = "hi!"
